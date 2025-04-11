@@ -1,0 +1,4 @@
+CapillaryTech provides RESTful APIs for managing loyalty programs, companies, customers, and transactions.
+To add a company, use the POST method on endpoint /v2/companies with Basic Auth.
+Authentication uses a till ID and MD5 password.
+All APIs accept and return JSON.
